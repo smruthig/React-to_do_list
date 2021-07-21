@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# To_do_list app using states, hooks and dummy json server
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+First, after cloning the repository, run:
+#### `npm install`
 
 ## Available Scripts
 
