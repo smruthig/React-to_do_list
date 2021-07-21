@@ -1,8 +1,10 @@
+import {Link} from 'react-router-dom'
+
 const About = () => {
     return (
         <div>
             <p>Version 1.0</p>
-            <a href="/">Back</a>
+            <Link to="/">Back</Link>
         </div>
     )
 }
