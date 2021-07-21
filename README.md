@@ -7,10 +7,10 @@ The tasks can be deleted as well.
 
 It has been created using create-react-app, using states, hooks and a dummy json server.
 
+## Running the application
+
 First, after cloning the repository, run:
 #### `npm install`
-
-## Available Scripts
 
 ### Development mode:
 
