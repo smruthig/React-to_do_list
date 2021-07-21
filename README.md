@@ -1,4 +1,11 @@
-# To-do-list app using states, hooks and dummy json server
+# To-do-list app 
+
+This is a web application created using create-react-app. It is a to-do-list application.
+In this application, you can add tasks, deadlines and reminders.
+The reminders can be switched on and off.
+The tasks can be deleted as well.
+
+It has been created using create-react-app, using states, hooks and a dummy json server.
 
 First, after cloning the repository, run:
 #### `npm install`
