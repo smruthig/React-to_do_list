@@ -1,4 +1,4 @@
-# To_do_list app using states, hooks and dummy json server
+# To-do-list app using states, hooks and dummy json server
 
 First, after cloning the repository, run:
 #### `npm install`
